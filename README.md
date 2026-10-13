@@ -1,7 +1,7 @@
 ### DAY 25 - Stakeholder đến Team Health & Growth Plan
 
-** Tên nhóm - NaCl **
-** Tên dự án: AI hỗ trợ Tuyển dụng và Sàng lọc CV **
+** Tên nhóm ** NaCl
+** Tên dự án: ** AI hỗ trợ Tuyển dụng và Sàng lọc CV
 
 ### Thành viên
 | Họ và tên | MSSV |
